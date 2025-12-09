@@ -128,8 +128,8 @@ _Source: PDF Page 2_ :contentReference[oaicite:9]{index=9}
 ## 📸 Dashboard Previews
 
 ### 2023–24 Dashboard
-<img src="dashboard_2023-24.png" width="900"/>
+<img src="dashboard_preview_2023-24.png" width="900"/>
 
 ### 2022–23 Dashboard
-<img src="dashboard_2022-23.png" width="900"/>
+<img src="dashboard_preview_2022-23.png" width="900"/>
 
