@@ -32,7 +32,6 @@ This Excel-based project demonstrates my ability to organize, analyze, and prese
 ## 📊 **Workbook Overview**
 
 The Excel workbook consists of several interconnected sheets, each serving a specific role in the overall financial model.  
-_Source: PDF Page 1–2_ :contentReference[oaicite:3]{index=3}
 
 ### **Dashboards**
 - **2023–24 Portfolio Dashboard**  
@@ -56,14 +55,14 @@ Detailed categorized expense table including:
 - Dates, vendors, payment methods  
 - Monthly rollups  
 - Yearly totals by category  
-(Not included in PDF preview but part of workbook)
+(Not included in PDF preview or workbook)
 
 ### **Work Hours Ledger**  
 Tracks hourly jobs across multiple roles to compute:  
 - Earned income  
 - Workload distribution  
 - Annual comparisons  
-_Source: PDF Page 1_ :contentReference[oaicite:4]{index=4}
+(Not included in PDF preview or workbook)
 
 ### **Earning Claims**  
 Logs income from:  
@@ -78,7 +77,6 @@ Tracks:
 - Mining outputs (GPU, CPU, and app miners)  
 - NFT-related income  
 - Passive yield over daily, weekly, monthly, and yearly periods  
-_Source: PDF Page 3–11_ :contentReference[oaicite:5]{index=5}
 
 ### **Crypto Ledger Wallet**  
 Maintains balances for all crypto locations:  
@@ -87,14 +85,12 @@ Maintains balances for all crypto locations:
 - Staking accounts  
 - NFT assets with future-value estimation  
 Detailed valuation and earnings metrics included.  
-_Source: PDF Page 5–7_ :contentReference[oaicite:6]{index=6}
 
 ### **Crypto Market Price Reference**  
 A snapshot of current coin prices used to dynamically calculate:  
 - Total crypto wealth  
 - Unrealized gains  
 - Asset allocation  
-_Source: PDF Page 11_ :contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -107,7 +103,6 @@ This project highlights the ability to:
 - Track multi-source digital and traditional income  
 - Integrate crypto assets, staking, NFTs, and passive income calculations  
 - Produce business-ready reports for decision-making  
-_Source: PDF Page 2_ :contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -121,7 +116,6 @@ The finance model is actively being migrated into a SQL schema to support:
 - Scalable database-backed financial analytics  
 
 This step modernizes the Excel system into a data-engineering project while preserving all analytical logic.  
-_Source: PDF Page 2_ :contentReference[oaicite:9]{index=9}
 
 ---
 
