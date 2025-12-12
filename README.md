@@ -133,3 +133,9 @@ _Source: PDF Page 2_ :contentReference[oaicite:9]{index=9}
 ### 2022–23 Dashboard
 <img src="dashboard_preview_2022-23.png" width="900"/>
 
+---
+
+## 📂 Project Files
+
+- **Excel Workbook:** [Personal-Finance-Analysis-Workbook.xlsx](Personal-Finance-Analysis-Workbook.xlsx)
+- **Project Summary PDF:** [Personal-Finance-Portfolio-Summary.pdf](Personal-Finance-Portfolio-Summary.pdf)
